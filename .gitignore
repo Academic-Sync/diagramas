@@ -1,0 +1,5 @@
+# Arquivos temporários e backups do Visual Paradigm
+*.bak
+*.log
+*.vpp.bak
+*.vpp.*
