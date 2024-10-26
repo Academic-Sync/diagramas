@@ -1,0 +1,1 @@
+# Usar versão 17.2 do Visual Paradigm
